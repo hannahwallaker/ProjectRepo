@@ -51,5 +51,7 @@
 <br/>Assisted with styling the application according to its branding
 <br/> <br/> Environment / Technologies 
 <br/>Java, TypeScript, HTML, CSS, Angular 10, Jenkins, Sonarcloud, AWS EC2, AWS S3, AWS RDS, Spring Boot, Spring Framework, Agile-Scrum, Git
+<br/>
+<br/>
 
 
