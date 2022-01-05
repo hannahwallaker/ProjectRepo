@@ -19,6 +19,7 @@
 
 # SimCoin Project 2
 <br/> Back end work URL: https://github.com/101121-VA-Java/SimCoin-BackEnd
+<br/> Front end work URL: https://github.com/101121-VA-Java/SimCoin-FrontEnd
 <br/> SimCoin is a single page application on which a user can practice their ability to trade cryptocurrencies. There are two types of users: Basic and VIP. Adding your email to the program makes you a VIP user with more ability to trade various currencies. The basic user may only trade bitcoin. You can watch your portfolio over time as you make financial trading decisions with real-time values of cryptos in USD.
 <br/>
 <br/> Roles / Responsibilities 
