@@ -40,6 +40,8 @@
 <br/>
 
 # VibeZ Project 3
+<br/> Back end work URL: https://github.com/Revature-VibeZ/Vibez-BackEnd
+<br/> Front end work URL: https://github.com/Revature-VibeZ/Vibez-FrontEnd
 <br/> Welcome to your: Vaguely Interesting, Boredom Erasing Zone. In today's world, we could all use some positivity. VibeZ, a cutting-edge social media platform, allows you to send good, bad, and immaculate vibes to the posts of peers. Based on vibe check ratings, the profile displays a mood ring showcasing the user's current vibe. With users on this platform posting fit checks, fresh memes, motivations, devotions, small business support, outdoor adventures, or even their daily boring tasks, members have the opportunity to learn how others view their vibe. VibeZ... put some good back in this world.
 <br/>
 <br/>Roles / Responsibilities 
